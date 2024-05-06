@@ -120,8 +120,9 @@ return 0;
 
 
 ## OUTPUT
-$ ./sem.o 
-![alt text](image.png)
+$ ./sem.o
+![image](https://github.com/Dhanaalakshmi/Linux-IPC-Semaphores/assets/155127252/0e698323-103f-4be3-af66-c8d43541dc68)
+
 
 
 $ ipcs
